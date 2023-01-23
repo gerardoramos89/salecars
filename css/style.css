@@ -12552,8 +12552,8 @@ html.tablet .ui-to-top {
 	height: 48px;
 	line-height: 48px;
 	cursor: pointer;
-	color: #151515;
-	background-color: transparent;
+	color: #ffffff;
+	background-color: #eb6e6e;
 	border: none;
 	display: none;
 }
@@ -14010,7 +14010,7 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #151515;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-	background: #ffffff;
+	background: #000000;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
