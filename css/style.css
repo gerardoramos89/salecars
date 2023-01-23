@@ -2593,18 +2593,18 @@ hr {
 }
 
 .button-default.button-wapasha::after, .button-default.button-wapasha:focus::after {
-	border-color: #6689ff;
+	border-color: #25D366;
 }
 
 .button-default.button-wapasha:hover, .button-default.button-wapasha:active {
-	color: #6689ff;
+	color: #188f1e;
 	background: transparent;
 }
 
 .button-primary, .button-primary:focus {
 	color: #ffffff;
-	background-color: #6689ff;
-	border-color: #6689ff;
+	background-color: #25D366;
+	border-color: #25D366;
 }
 
 .button-primary:hover, .button-primary:active {
