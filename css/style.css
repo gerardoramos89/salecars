@@ -104,7 +104,7 @@ body {
 	line-height: 1.71429;
 	font-weight: 500;
 	letter-spacing: .05em;
-	background-color: #ffffff;
+	background-color: #000000;
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
@@ -12759,7 +12759,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-nav-item.active .rd-nav-link {
-	color: #6689ff;
+	color: #ffffff;
 	background: transparent;
 }
 
@@ -12807,12 +12807,12 @@ html.tablet .ui-to-top {
 	line-height: 1.2;
 	font-weight: 500;
 	letter-spacing: 0;
-	color: #151515;
+	color: #ffffff;
 	transition: .25s;
 }
 
 .rd-navbar-static .rd-nav-link:hover {
-	color: #6689ff;
+	color: #368be1;
 }
 
 .rd-navbar-static .rd-menu {
@@ -14030,12 +14030,12 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-fixed .rd-nav-link {
-	color: #151515;
+	color: #ffffff;
 }
 
 .rd-navbar-fixed .rd-megamenu-list > li > a,
 .rd-navbar-fixed .rd-navbar-dropdown > li > a {
-	color: #151515;
+	color: #ffffff;
 	font-size: 14px;
 	line-height: 1.86;
 	letter-spacing: .05em;
@@ -14115,6 +14115,7 @@ html.rd-navbar-fixed-linked .page-header {
 .rd-navbar-sidebar .rd-navbar-main-outer {
 	padding-left: 15px;
 	padding-right: 15px;
+	background-color: #000000
 }
 
 .rd-navbar-sidebar .rd-navbar-main {
@@ -14193,7 +14194,7 @@ html.rd-navbar-fixed-linked .page-header {
 }
 
 .rd-navbar-sidebar .rd-nav-item.active .rd-nav-link {
-	color: #6689ff;
+	color: #ffffff;
 }
 
 .rd-navbar-sidebar .rd-nav-item .rd-nav-link,
@@ -14498,12 +14499,14 @@ html.rd-navbar-fixed-linked .page-header {
 	position: relative;
 	padding-left: 15px;
 	padding-right: 15px;
+	background-color: #000000;
 }
 
 @media (min-width: 1600px) {
 	.rd-navbar-classic.rd-navbar-static .rd-navbar-main-outer {
 		padding-left: 75px;
 		padding-right: 75px;
+		background-color: #000000;
 	}
 }
 
@@ -14647,7 +14650,7 @@ html.rd-navbar-fixed-linked .page-header {
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-nav-item.focus .rd-nav-link, .rd-navbar-classic.rd-navbar-static .rd-nav-item.opened .rd-nav-link, .rd-navbar-classic.rd-navbar-static .rd-nav-item.active .rd-nav-link {
-	color: #151515;
+	color: #ffffff;
 	background: transparent;
 }
 
@@ -14658,7 +14661,7 @@ html.rd-navbar-fixed-linked .page-header {
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-nav-item.focus .rd-nav-link > .rd-navbar-submenu-toggle, .rd-navbar-classic.rd-navbar-static .rd-nav-item.opened .rd-nav-link > .rd-navbar-submenu-toggle, .rd-navbar-classic.rd-navbar-static .rd-nav-item.active .rd-nav-link > .rd-navbar-submenu-toggle {
-	color: #151515;
+	color: #ffffff;
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-nav-link::before {
@@ -14676,7 +14679,7 @@ html.rd-navbar-fixed-linked .page-header {
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-nav-link:hover {
-	color: #151515;
+	color: #368be1;
 }
 
 .rd-navbar-classic.rd-navbar-static .rd-nav-link:hover::before {
