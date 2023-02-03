@@ -12342,7 +12342,7 @@ html:not(.lt-ie10) .not-animated {
 	flex-direction: column;
 	padding: 20px;
 	z-index: 9999999;
-	background: #ffffff;
+	background: #000000;
 	transition: .3s all ease;
 }
 
@@ -19412,7 +19412,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-item {
-	background: url(../images/loading.gif) center center no-repeat;
+	background: url(../images/logo-nicolas.png) center center no-repeat;
 	display: none !important;
 }
 
